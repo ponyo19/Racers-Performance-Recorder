@@ -10,7 +10,7 @@ Step 1: Clone this repository
 git clone https://github.com/ponyo19/Racers-Performance-Recorder.git
 ```
 
-Step 2: Go to src/ directory and build the project
+Step 2: Go to src/ directory
 ```
 cd src
 ```
