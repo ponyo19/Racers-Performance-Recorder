@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Project",
+			"path": "."
+		},
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		},
+		"files.watcherExclude": {
+			"**/target": true
+		}
+	}
+}
